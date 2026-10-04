@@ -1,0 +1,7 @@
+﻿# Ignore audio parts (tu tep nho, khong can push)
+interview/audio_parts/
+interview/create_practice_audio.py
+
+# OS
+.DS_Store
+Thumbs.db
